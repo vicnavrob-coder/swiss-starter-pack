@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vicnavrob-coder.github.io/swiss-starter-pack/sitemap.xml
